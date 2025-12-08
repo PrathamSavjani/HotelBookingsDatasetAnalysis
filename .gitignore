@@ -1,0 +1,7 @@
+# Ignore everything
+*
+
+# Exceptions
+!Hotel_Analysis.ipynb
+!hotel_bookings.csv
+!.gitignore
